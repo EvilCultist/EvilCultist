@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeCreatorNo1
 - 👀 I’m interested in GdScript, java and c++.
-- 🌱 I’m currently learning competitive proggraming
+- 🌱 I’m currently learning opengl. I want to practice competitive programming
 - 💞️ I’m looking to collaborate on godot projects
 - 📫 How to reach me : keshavdsingh2905@gmail.com
